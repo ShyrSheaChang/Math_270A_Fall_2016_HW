@@ -1,0 +1,4 @@
+﻿  HW1_2.cpp
+d:\github\math_270a_fall_2016\hw1\hw1_2.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HW1_2.vcxproj -> D:\Github\Math_270A_Fall_2016\HW1\HW1_2\Debug\HW1_2.exe
+  HW1_2.vcxproj -> D:\Github\Math_270A_Fall_2016\HW1\HW1_2\Debug\HW1_2.pdb (Partial PDB)
